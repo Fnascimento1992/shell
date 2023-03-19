@@ -1,3 +1,3 @@
 # shell
 
-Scripst personalizados. Automatizaç
+Scripst personalizados. Tarefas automatizadas
